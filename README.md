@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer lover, passionate about 0s and 1s, interested in all things tech. The part I enjoy the most is understanding how computers work under the hood, and how the level of abstractions are built on top of each other.
+I'm a computer lover, passionate about 0s and 1s, interested in all things tech. The part I enjoy the most is understanding how computers work under the hood, and how the levels of abstraction are built on top of each other.
 
 My curiosity isn't limited to any specific language, tool, or framework – I'm always on the lookout for new challenges and constantly learning to tackle any problem that comes my way, whether it's **C**, **Python**, **JavaScript** or something completely different, I'm ready to dive in and expand my horizons. It's fun!
 
