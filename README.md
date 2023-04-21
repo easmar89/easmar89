@@ -14,6 +14,5 @@ My curiosity isn't limited to any specific language, tool, or framework – I'm 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://twitter.com/elieasmar89)
 
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easmar89&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
