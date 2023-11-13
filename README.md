@@ -4,7 +4,6 @@ I'm a computer lover, passionate about 0s and 1s, interested in all things tech.
 
 My curiosity isn't limited to any specific language, tool, or framework – I'm always on the lookout for new challenges and constantly learning to tackle any problem that comes my way, whether it's **C**, **Python**, **JavaScript** or something completely different, I'm ready to dive in and expand my horizons. It's fun!
 
-- **Current job:** Software engineer at Volvo Cars in Gothenburg
 - **Current topic I'm exploring:** Operating Systems
 - **Current book I'm reading:** OSTEP
 
