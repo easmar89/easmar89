@@ -1,17 +1,8 @@
-### Hi there 👋
-
-I'm a computer lover, passionate about 0s and 1s, interested in all things tech. The part I enjoy the most is understanding how computers work under the hood, and how the levels of abstraction are built on top of each other.
-
-My curiosity isn't limited to any specific language, tool, or framework – I'm always on the lookout for new challenges and constantly learning to tackle any problem that comes my way, whether it's **C**, **Python**, **JavaScript** or something completely different, I'm ready to dive in and expand my horizons. It's fun!
-
-- **Current topic I'm exploring:** Operating Systems
-- **Current book I'm reading:** OSTEP
-
 <br>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/elie-asmar-141626203/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://twitter.com/elieasmar89)
+> **_"What I cannot create, I do not understand!"_ - Richard Feynman**
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easmar89&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+- Re-inventing the wheel is the best way to learn.
+- Don't listen to what most people say.
+- Layers of abstraction are what separate us from the truth.
+- Aim for a life where money is a reward and not a goal.
